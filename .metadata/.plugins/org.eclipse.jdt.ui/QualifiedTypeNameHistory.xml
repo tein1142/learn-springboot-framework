@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.HelloWorldConfiguration"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.Address"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.GamingConfiguration"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.MarioGame"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.SuperContraGame"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GameRunner"/>
+</qualifiedTypeNameHistroy>
