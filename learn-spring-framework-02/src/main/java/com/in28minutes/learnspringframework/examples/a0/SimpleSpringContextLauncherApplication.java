@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-// ComponentScan สามารถค้นหา component ใน package ที่เราระบุไว้ ถ้าไม่ระบุจะใช้ package ปัจจุยบัน
+// ComponentScan สามารถค้นหา component ใน package ที่เราระบุไว้ ถ้าไม่ระบุจะใช้ package ปัจจุบัน
 @ComponentScan
 public class SimpleSpringContextLauncherApplication {
 
