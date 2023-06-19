@@ -16,12 +16,6 @@ public class App03GamingSpringBeans {
 			context.getBean(GamingConsole.class).down();
 			context.getBean(GameRunner.class).run();
 		}
-//		var game1 = new MarioGame();
-//		var game2 = new SuperContraGame();
-//		var game3 = new PacmanGame();
-//		var gameRunner = new GameRunner(game3);
-//		gameRunner.run();
-
 	}
 
 }

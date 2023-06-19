@@ -1,5 +1,9 @@
 package com.in28minutes.learnspringframework.game;
 
+import org.springframework.stereotype.Component;
+
+//Component สามารถสร้าง object ได้อัติโนมัติ
+@Component
 public class PacmanGame implements GamingConsole{
 
 	@Override
