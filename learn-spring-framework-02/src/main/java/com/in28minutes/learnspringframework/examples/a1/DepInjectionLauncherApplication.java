@@ -39,12 +39,10 @@ class YourBusinessClass {
 
 @Component
 class Dependency1 {
-
 }
 
 @Component
 class Dependency2 {
-
 }
 
 @Configuration
